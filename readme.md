@@ -6,5 +6,6 @@
 - Executor will callback Requestor on Executor's thread and set the result
 - Then Requestor will read and consume result on it's own original thread
 
-![Showcase](https://user-images.githubusercontent.com/3373490/113867852-4f462480-97af-11eb-8d76-81d7e56decf8.mp4)
+![Preview](https://user-images.githubusercontent.com/3373490/113868648-32f6b780-97b0-11eb-8a23-6c369a28b062.gif)
+
 
