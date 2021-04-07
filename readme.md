@@ -6,4 +6,5 @@
 - Executor will callback Requestor on Executor's thread and set the result
 - Then Requestor will read and consume result on it's own original thread
 
-![example.mp4](example.mp4)
+![Showcase](https://user-images.githubusercontent.com/3373490/113867852-4f462480-97af-11eb-8d76-81d7e56decf8.mp4)
+
